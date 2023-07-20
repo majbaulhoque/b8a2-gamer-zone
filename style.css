@@ -361,3 +361,75 @@ h4{
     margin-left: 99px;
     text-align: right;
 }
+
+.main-last-part{
+    margin-top: 121px;
+    margin-left: 248px;
+}
+
+/* .button-first-row{
+    /* display: flex;
+    width: 243px;
+    height: 80px;
+    margin-right: px;
+    border-radius: 50px;
+    background: #FFF;
+    color: #0B0223;
+    font-size: 20px;
+    /* font-style: normal;
+    font-weight: 600;
+    line-height: normal; */
+/*
+.button-first-row{
+    /* display: flex; */
+    /* position: absolute;
+} */
+
+/* .btn-last{
+    /* margin-right: 37px;
+    border-radius: 50px;
+    background: #FFF; */
+    /* width: 281px;
+    height: 80px; */
+    /* text-align: center;
+}
+.first{
+   margin-bottom: 50px;
+}
+.btn-img{
+    width: 50px;
+
+    margin-right: 110px;
+} */ 
+
+
+.button-first-row{
+    display: flex;
+}
+
+.btn-last{
+    margin-right: 90px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    color: #0B0223;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    }
+
+.btn-last:hover{
+        border: 1px solid black;
+        border-radius: 50px;
+    }
+ 
+.btn-img{
+    margin-right: 15px;
+}
+
+.button-second-row{
+    display: flex;
+    margin-left: 130px;
+    margin-top: 37px;
+}
