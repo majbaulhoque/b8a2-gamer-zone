@@ -433,3 +433,82 @@ h4{
     margin-left: 130px;
     margin-top: 37px;
 }
+
+footer{
+    background-color: #0D0A23;
+    height: 636px;
+}
+
+.footer-heading{
+    /* margin-top: 126px; */
+    display: flex;
+    margin-bottom: 66px;
+}
+
+.footer-img{
+    width: 86px;
+    height: 40px;
+    margin-left: 833px;
+    margin-right: 20px;
+    margin-top: 126px;
+}
+
+.footer-title{
+    margin-top: 126px;
+    color: #FFF;
+}
+
+.footer-list ul li{
+    display: inline;
+    margin-right: 60px;
+    color: #FFF;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.footer-list{
+    margin-left: 303px;
+}
+
+.footer-btn{
+
+    margin-right: 40px;
+    width: 57px;
+    height: 40px;
+}
+
+.footer-icon{
+    display: flex;
+    text-align: center;
+    margin-left: 820px;
+    margin-top: 60px;
+}
+
+.footer-last-part ul li{
+    display: inline;
+    margin-right: 60px;
+    color: rgba(255, 255, 255, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+
+.footer-last-part{
+    margin-top: 74px;
+    margin-left: 370px;
+}
+
+.footer-description{
+    color: rgba(255, 255, 255, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
