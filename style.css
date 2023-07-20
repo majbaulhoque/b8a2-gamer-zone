@@ -381,43 +381,6 @@ h4{
     color: #E661AD;
     margin-bottom: 120px;
 }
-
-/* .button-first-row{
-    /* display: flex;
-    width: 243px;
-    height: 80px;
-    margin-right: px;
-    border-radius: 50px;
-    background: #FFF;
-    color: #0B0223;
-    font-size: 20px;
-    /* font-style: normal;
-    font-weight: 600;
-    line-height: normal; */
-/*
-.button-first-row{
-    /* display: flex; */
-    /* position: absolute;
-} */
-
-/* .btn-last{
-    /* margin-right: 37px;
-    border-radius: 50px;
-    background: #FFF; */
-    /* width: 281px;
-    height: 80px; */
-    /* text-align: center;
-}
-.first{
-   margin-bottom: 50px;
-}
-.btn-img{
-    width: 50px;
-
-    margin-right: 110px;
-} */ 
-
-
 .button-first-row{
     display: flex;
 }
