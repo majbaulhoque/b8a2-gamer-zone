@@ -241,6 +241,10 @@ h4{
     margin-top: 120px;
 }
 
+.funny{
+    color: #CC68CD;
+}
+
 .sec-header-description{
     margin-top: 7px;
     margin-bottom: 50px;
@@ -367,6 +371,17 @@ h4{
     margin-left: 248px;
 }
 
+.main-fourth-part-button{
+    display: inline-flex;
+    padding: 21px 40px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 48px;
+    background-color: #FFF;
+    color: #E661AD;
+    margin-bottom: 120px;
+}
+
 /* .button-first-row{
     /* display: flex;
     width: 243px;
@@ -432,6 +447,7 @@ h4{
     display: flex;
     margin-left: 130px;
     margin-top: 37px;
+    margin-bottom: 120px;
 }
 
 footer{
