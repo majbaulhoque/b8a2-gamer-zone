@@ -162,6 +162,7 @@ li{
 
 .option-container{
     display: flex;
+    background-color: #FCF5FB;
 }
 
 .home{
@@ -313,4 +314,50 @@ h4{
     position: relative;
     width: 400px;
     height: 200px;
+}
+
+.main-fourth-part{
+    margin-top: 195px;
+    background-color: #E65EA3;
+    display: flex;
+}
+
+.fourth-part-start{
+    margin-left: 240px;
+}
+
+.fourth-header{
+    color: #FFF;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    margin-top: 120px;
+    margin-bottom: 10px;
+}
+
+.fourth-header-describtion{
+    color: #FFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    width: 680px;
+    height: 120px;
+}
+
+.list-item{
+    margin-top: 24px;
+    display: flex;
+    list-style: none;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px; /* 200% */
+}
+
+.list-second-part{
+    margin-left: 99px;
+    text-align: right;
 }
